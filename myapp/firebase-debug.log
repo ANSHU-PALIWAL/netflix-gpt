@@ -1,0 +1,28 @@
+[debug] [2023-12-29T11:39:45.193Z] ----------------------------------------------------------------------
+[debug] [2023-12-29T11:39:45.203Z] Command:       D:\Program Files\nodejs\node.exe C:\Users\priya\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-29T11:39:45.204Z] CLI Version:   13.0.2
+[debug] [2023-12-29T11:39:45.205Z] Platform:      win32
+[debug] [2023-12-29T11:39:45.205Z] Node Version:  v21.1.0
+[debug] [2023-12-29T11:39:45.206Z] Time:          Fri Dec 29 2023 17:09:45 GMT+0530 (India Standard Time)
+[debug] [2023-12-29T11:39:45.206Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-29T11:39:45.241Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2023-12-29T11:39:45.680Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-29T11:39:45.681Z] > authorizing via signed-in user (paliwalanshu35@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\-----ALL PROJECTS\REACT PROJECTS\React-Netflix-Gpt\netflix-gpt\myapp
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[debug] [2023-12-29T11:39:46.575Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-12-29T11:39:46.576Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
